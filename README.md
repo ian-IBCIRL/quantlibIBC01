@@ -1,2 +1,2 @@
-# quantlib-IBC-01
+# quantlibIBC01
 My first quantlib repository
